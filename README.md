@@ -13,5 +13,3 @@ Full-stack developer working primarily with **Laravel** and **Next.js**
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloschnouda1&show_icons=true&theme=default)
